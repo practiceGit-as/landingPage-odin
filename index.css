@@ -1,0 +1,42 @@
+*{
+    background-color: #1F2937;
+    font-family: Roboto;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+
+.hero{
+    display: flex;
+    margin: 0 auto;
+    color: white;
+    justify-content: space-around;
+}
+
+.hero-text{
+    margin-left: 20%;
+    padding-right: 1%;
+    font-weight: 900;
+    h1{
+        font-size: 48px;
+    }
+}
+
+.hero-image{
+    margin-right: 15%;
+    text-align: center;
+    line-height: 350px;
+}
+
+.box{
+    width: 75dvh;
+    height: 50dvh;
+    background-color: #E5E7EB;
+}
