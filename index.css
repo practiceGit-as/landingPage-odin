@@ -23,6 +23,7 @@ li{
 .hero-text{
     margin-left: 20%;
     padding-right: 1%;
+    height: 50dvh;
     font-weight: 900;
     h1{
         font-size: 48px;
@@ -33,10 +34,20 @@ li{
     margin-right: 15%;
     text-align: center;
     line-height: 350px;
+    height: 50dvh;
+}
+
+.sign-up{
+    color: white;
+    font-size: 24px;
+    border: none;
+    background-color: #3882F6;
+    border-radius: 12px;
+    height: 5dvh;
+    width: 25%;
 }
 
 .box{
     width: 75dvh;
-    height: 50dvh;
     background-color: #E5E7EB;
 }
